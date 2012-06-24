@@ -79,6 +79,7 @@ public class AnimationTest extends BasicGame {
         manual.draw(-600,100,36*4,65*4);
         pingPong.draw(-700,100,36*2,65*2);
     }
+    // Just added some comments to track changes
 
     /**
      * @see org.newdawn.slick.BasicGame#update(org.newdawn.slick.GameContainer, int)
